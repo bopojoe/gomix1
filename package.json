@@ -1,7 +1,7 @@
 {
   "name": "gomix-list",
-  "version": "0.0.1",
-  "description": "Starter project for learning gomix",
+  "version": "0.0.6",
+  "description": "Brenda's WebDev Assignment 1",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -19,7 +19,7 @@
     "node": "6.9.1"
   },
   "repository": {
-    "url": "https://github.com/edeleastar/gomix-template-1.git"
+    "url": "https://github.com/bopojoe/gomix1.git"
   },
   "keywords": [
     "node",
